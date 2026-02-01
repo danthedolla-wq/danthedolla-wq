@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-02-01T22:24:40.957Z",
+  "updatedAt": "2026-02-01T23:12:58.551Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -387,7 +387,7 @@
   "portfolio": {
     "template": "minimal",
     "font": "Montserrat",
-    "accentColor": "#722adf",
+    "accentColor": "#549282",
     "options": {
       "linkOrder": [
         "currentlyWorkingOn",
@@ -399,6 +399,9 @@
         "hashnode",
         "linkedin"
       ],
+      "showGitHubSection": true,
+      "showSkillsSection": true,
+      "youtubeVideoUrl": "https://www.youtube.com/watch?v=HpzuMjqlZxA",
       "githubUserStats": {
         "publicRepos": 1,
         "followers": 0,
