@@ -46,6 +46,12 @@ I've been building websites for 10 years.
     <source media="(prefers-color-scheme: light)" srcset="https://danthedolla-wq.github.io/danthedolla-wq/.profile/assets/icons/socials/linkedin.svg" />
     <img src="https://danthedolla-wq.github.io/danthedolla-wq/.profile/assets/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
   </picture>
+</a><a href="https://cal.com/dan" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://danthedolla-wq.github.io/danthedolla-wq/.profile/assets/icons/socials/cal-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://danthedolla-wq.github.io/danthedolla-wq/.profile/assets/icons/socials/cal.svg" />
+    <img src="https://danthedolla-wq.github.io/danthedolla-wq/.profile/assets/icons/socials/cal.svg" width="32" height="32" alt="Cal.com" title="Cal.com" />
+  </picture>
 </a><a href="https://www.youtube.com/@danielcranney" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://danthedolla-wq.github.io/danthedolla-wq/.profile/assets/icons/socials/youtube-dark.svg" />
