@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-02-01T00:29:12.101Z",
+  "updatedAt": "2026-02-01T10:38:28.828Z",
   "generator": {
     "name": "ProfileMe.dev"
   },
@@ -394,7 +394,7 @@
           "html_url": "https://github.com/danthedolla-wq/danthedolla-wq",
           "description": "My GitHub profile",
           "stargazers_count": 0,
-          "language": null
+          "language": "HTML"
         }
       ]
     }
