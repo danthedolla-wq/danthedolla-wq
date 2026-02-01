@@ -1,0 +1,402 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-02-01T00:29:12.101Z",
+  "generator": {
+    "name": "ProfileMe.dev"
+  },
+  "profile": {
+    "introduction": {
+      "name": "Daniel Cranney",
+      "animatedHand": 0,
+      "shortDescription": "Web Developer",
+      "longDescription": "I've been building websites for 10 years.",
+      "location": "Bristol",
+      "portfolioTitle": "portfolio.com",
+      "portfolioLink": "portfolio.com",
+      "emailMe": "hello@danielcranney.com",
+      "workingOnTitle": "profileme.dev",
+      "workingOnLink": "profileme.dev",
+      "learning": "how to work with open banking APIs.",
+      "collaborateOn": "interesting and creative projects",
+      "additionalInfo": ""
+    },
+    "skills": {
+      "core": [
+        {
+          "name": "Java",
+          "path": ".profile/assets/icons/skills/java-colored.svg",
+          "link": "https://www.oracle.com/java/"
+        }
+      ],
+      "scripting": [],
+      "editors": [],
+      "frontend": [
+        {
+          "name": "HTML5",
+          "path": ".profile/assets/icons/skills/html5-colored.svg",
+          "link": "https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+        },
+        {
+          "name": "React",
+          "path": ".profile/assets/icons/skills/react-colored.svg",
+          "link": "https://reactjs.org/"
+        },
+        {
+          "name": "NextJs",
+          "path": ".profile/assets/icons/skills/nextjs-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/nextjs-colored-dark.svg",
+          "link": "https://nextjs.org/docs"
+        },
+        {
+          "name": "CSS3",
+          "path": ".profile/assets/icons/skills/css3-colored.svg",
+          "link": "https://www.w3.org/TR/CSS/#css"
+        },
+        {
+          "name": "Sass",
+          "path": ".profile/assets/icons/skills/sass-colored.svg",
+          "link": "https://sass-lang.com/"
+        },
+        {
+          "name": "TailwindCSS",
+          "path": ".profile/assets/icons/skills/tailwindcss-colored.svg",
+          "link": "https://tailwindcss.com/"
+        }
+      ],
+      "backend": [
+        {
+          "name": "NodeJS",
+          "path": ".profile/assets/icons/skills/nodejs-colored.svg",
+          "link": "https://nodejs.org/en/"
+        },
+        {
+          "name": "Express",
+          "path": ".profile/assets/icons/skills/express-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/express-colored-dark.svg",
+          "link": "https://expressjs.com/"
+        }
+      ],
+      "software": [
+        {
+          "name": "Photoshop",
+          "path": ".profile/assets/icons/skills/photoshop-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/photoshop-colored-dark.svg",
+          "link": "https://www.adobe.com/uk/products/photoshop.html"
+        },
+        {
+          "name": "Illustrator",
+          "path": ".profile/assets/icons/skills/illustrator-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/illustrator-colored-dark.svg",
+          "link": "https://www.adobe.com/uk/products/illustrator.html"
+        },
+        {
+          "name": "After Effects",
+          "path": ".profile/assets/icons/skills/aftereffects-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/aftereffects-colored-dark.svg",
+          "link": "https://www.adobe.com/uk/products/aftereffects.html"
+        },
+        {
+          "name": "Premiere Pro",
+          "path": ".profile/assets/icons/skills/premierepro-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/premierepro-colored-dark.svg",
+          "link": "https://www.adobe.com/uk/products/premiere.html"
+        },
+        {
+          "name": "XD",
+          "path": ".profile/assets/icons/skills/xd-colored.svg",
+          "darkPath": ".profile/assets/icons/skills/xd-colored-dark.svg",
+          "link": "https://www.adobe.com/uk/products/xd.html"
+        },
+        {
+          "name": "Figma",
+          "path": ".profile/assets/icons/skills/figma-colored.svg",
+          "link": "https://www.figma.com/"
+        },
+        {
+          "name": "Sketch",
+          "path": ".profile/assets/icons/skills/sketch-colored.svg",
+          "link": "https://www.sketch.com/"
+        }
+      ],
+      "web3": [],
+      "cloud": [],
+      "cms": [
+        {
+          "name": "Wordpress",
+          "path": ".profile/assets/icons/skills/wordpress-colored.svg",
+          "link": "https://wordpress.com"
+        },
+        {
+          "name": "Wix",
+          "path": ".profile/assets/icons/skills/wix-colored.svg",
+          "link": "https://wix.com"
+        },
+        {
+          "name": "Squarespace",
+          "path": ".profile/assets/icons/skills/squarespace-colored.svg",
+          "link": "https://squarespace.com"
+        }
+      ],
+      "embedded": [],
+      "operatingSystem": [],
+      "other": []
+    },
+    "socials": {
+      "github": {
+        "label": "GitHub",
+        "path": ".profile/assets/icons/socials/github.svg",
+        "darkPath": ".profile/assets/icons/socials/github-dark.svg",
+        "linkPrefix": "https://www.github.com/",
+        "linkSuffix": "danielcranney"
+      },
+      "gitlab": {
+        "label": "GitLab",
+        "path": ".profile/assets/icons/socials/gitlab.svg",
+        "linkPrefix": "https://www.gitlab.com/",
+        "linkSuffix": ""
+      },
+      "twitter": {
+        "label": "Twitter",
+        "path": ".profile/assets/icons/socials/twitter.svg",
+        "darkPath": ".profile/assets/icons/socials/twitter-dark.svg",
+        "linkPrefix": "https://www.x.com/",
+        "linkSuffix": "danielcranney"
+      },
+      "threads": {
+        "label": "Threads",
+        "path": ".profile/assets/icons/socials/threads.svg",
+        "darkPath": ".profile/assets/icons/socials/threads-dark.svg",
+        "linkPrefix": "https://www.threads.net/@",
+        "linkSuffix": "danielcranney"
+      },
+      "hashnode": {
+        "label": "Hashnode",
+        "path": ".profile/assets/icons/socials/hashnode.svg",
+        "darkPath": ".profile/assets/icons/socials/hashnode-dark.svg",
+        "linkPrefix": "https://",
+        "linkSuffix": "",
+        "linkSuffixTwo": ".hashnode.dev"
+      },
+      "medium": {
+        "label": "Medium",
+        "path": ".profile/assets/icons/socials/medium.svg",
+        "darkPath": ".profile/assets/icons/socials/medium-dark.svg",
+        "linkPrefix": "http://www.medium.com/",
+        "linkSuffix": ""
+      },
+      "devdotto": {
+        "label": "DEV",
+        "path": ".profile/assets/icons/socials/devdotto.svg",
+        "darkPath": ".profile/assets/icons/socials/devdotto-dark.svg",
+        "linkPrefix": "https://www.dev.to/",
+        "linkSuffix": ""
+      },
+      "linkedin": {
+        "label": "LinkedIn",
+        "path": ".profile/assets/icons/socials/linkedin.svg",
+        "darkPath": ".profile/assets/icons/socials/linkedin-dark.svg",
+        "linkPrefix": "https://www.linkedin.com/in/",
+        "linkSuffix": "danielcranney"
+      },
+      "polywork": {
+        "label": "Polywork",
+        "path": ".profile/assets/icons/socials/polywork.svg",
+        "darkPath": ".profile/assets/icons/socials/polywork-dark.svg",
+        "linkPrefix": "https://www.polywork.com/",
+        "linkSuffix": ""
+      },
+      "twitch": {
+        "label": "Twitch",
+        "path": ".profile/assets/icons/socials/twitch.svg",
+        "darkPath": ".profile/assets/icons/socials/twitch-dark.svg",
+        "linkPrefix": "https://www.twitch.tv/",
+        "linkSuffix": ""
+      },
+      "youtube": {
+        "label": "YouTube",
+        "path": ".profile/assets/icons/socials/youtube.svg",
+        "darkPath": ".profile/assets/icons/socials/youtube-dark.svg",
+        "linkPrefix": "https://www.youtube.com/@",
+        "linkSuffix": "danielcranney"
+      },
+      "discord": {
+        "label": "Discord",
+        "path": ".profile/assets/icons/socials/discord.svg",
+        "darkPath": ".profile/assets/icons/socials/discord-dark.svg",
+        "linkPrefix": "https://discord.com/users/",
+        "linkSuffix": ""
+      },
+      "instagram": {
+        "label": "Instragram",
+        "path": ".profile/assets/icons/socials/instagram.svg",
+        "darkPath": ".profile/assets/icons/socials/instagram-dark.svg",
+        "linkPrefix": "http://www.instagram.com/",
+        "linkSuffix": ""
+      },
+      "facebook": {
+        "label": "Facebook",
+        "path": ".profile/assets/icons/socials/facebook.svg",
+        "darkPath": ".profile/assets/icons/socials/facebook-dark.svg",
+        "linkPrefix": "https://www.facebook.com/",
+        "linkSuffix": ""
+      },
+      "dribbble": {
+        "label": "Dribble",
+        "path": ".profile/assets/icons/socials/dribbble.svg",
+        "darkPath": ".profile/assets/icons/socials/dribbble-dark.svg",
+        "linkPrefix": "https://www.dribbble.com/",
+        "linkSuffix": ""
+      },
+      "behance": {
+        "label": "Behance",
+        "path": ".profile/assets/icons/socials/behance.svg",
+        "darkPath": ".profile/assets/icons/socials/behance-dark.svg",
+        "linkPrefix": "https://www.behance.com/",
+        "linkSuffix": ""
+      },
+      "codesandbox": {
+        "label": "CodeSandbox",
+        "path": ".profile/assets/icons/socials/codesandbox.svg",
+        "darkPath": ".profile/assets/icons/socials/codesandbox-dark.svg",
+        "linkPrefix": "https://codesandbox.io/u/",
+        "linkSuffix": ""
+      },
+      "codepen": {
+        "label": "CodePen",
+        "path": ".profile/assets/icons/socials/codepen.svg",
+        "darkPath": ".profile/assets/icons/socials/codepen-dark.svg",
+        "linkPrefix": "https://www.codepen.io/",
+        "linkSuffix": ""
+      },
+      "stackoverflow": {
+        "label": "Stack Overflow",
+        "path": ".profile/assets/icons/socials/stackoverflow.svg",
+        "darkPath": ".profile/assets/icons/socials/stackoverflow-dark.svg",
+        "linkPrefix": "https://www.stackoverflow.com/users/",
+        "linkSuffix": ""
+      },
+      "rss": {
+        "label": "RSS",
+        "path": ".profile/assets/icons/socials/rss.svg",
+        "darkPath": ".profile/assets/icons/socials/rss-dark.svg",
+        "linkPrefix": "https://",
+        "linkSuffix": ""
+      }
+    },
+    "badges": {
+      "twitterFollowers": {
+        "selected": false
+      },
+      "githubFollowers": {
+        "selected": false
+      },
+      "githubVisits": {
+        "selected": false
+      },
+      "githubStatsCard": {
+        "selected": false,
+        "stars": true,
+        "commits": true,
+        "prs": true,
+        "issues": true,
+        "contribs": true,
+        "privateCommits": true
+      },
+      "githubCommitsGraph": {
+        "selected": false
+      },
+      "githubStreak": {
+        "selected": false
+      },
+      "twitchStatus": {
+        "selected": false
+      },
+      "topLangsCard": {
+        "selected": false
+      },
+      "reposCard": {
+        "selected": false,
+        "repoOne": "",
+        "repoTwo": null,
+        "repoThree": null,
+        "repoFour": null
+      },
+      "cardStyle": {
+        "selected": false,
+        "titleColor": "0891b2",
+        "titleColorEdit": false,
+        "textColor": "ffffff",
+        "textColorEdit": false,
+        "iconColor": "0891b2",
+        "iconColorEdit": false,
+        "bgColor": "1c1917",
+        "bgColorEdit": false,
+        "hideBorder": true,
+        "showIcons": true
+      }
+    },
+    "support": {
+      "buymeacoffee": {
+        "path": ".profile/assets/icons/support/buymeacoffee.svg",
+        "previewIMG": "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png",
+        "linkPrefix": "https://www.buymeacoffee.com/",
+        "linkSuffix": ""
+      },
+      "kofi": {
+        "path": ".profile/assets/icons/support/kofi.svg",
+        "previewIMG": "https://storage.ko-fi.com/cdn/kofi2.png?v=3",
+        "linkPrefix": "https://www.ko-fi.com/",
+        "linkSuffix": ""
+      }
+    },
+    "sectionOrder": [
+      "introduction",
+      "skills",
+      "socials",
+      "badges",
+      "support"
+    ],
+    "socialOrder": [
+      "github",
+      "gitlab",
+      "twitter",
+      "threads",
+      "hashnode",
+      "medium",
+      "devdotto",
+      "linkedin",
+      "polywork",
+      "twitch",
+      "youtube",
+      "behance",
+      "codepen",
+      "codesandbox",
+      "discord",
+      "dribbble",
+      "facebook",
+      "rss",
+      "stackoverflow"
+    ],
+    "skillsOrder": []
+  },
+  "render": {
+    "readmeTemplate": "default",
+    "readmeOptions": {}
+  },
+  "portfolio": {
+    "template": "minimal",
+    "font": "Montserrat",
+    "accentColor": "#3bf7e1",
+    "options": {
+      "featuredRepos": [
+        {
+          "name": "danthedolla-wq",
+          "html_url": "https://github.com/danthedolla-wq/danthedolla-wq",
+          "description": "My GitHub profile",
+          "stargazers_count": 0,
+          "language": null
+        }
+      ]
+    }
+  }
+}
